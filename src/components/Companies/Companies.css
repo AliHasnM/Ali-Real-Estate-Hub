@@ -1,0 +1,7 @@
+.c-container{
+    margin-left: 9%;
+}
+.c-container>img{
+    width: 10rem;
+    height: 5rem;
+}
